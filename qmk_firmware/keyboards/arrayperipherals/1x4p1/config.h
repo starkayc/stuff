@@ -39,3 +39,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 /* rotary encoder*/
 #define ENCODERS_PAD_A {F0}
 #define ENCODERS_PAD_B {F1}
+
+/* VIA Layer Count*/
+#define DYNAMIC_KEYMAP_LAYER_COUNT 2

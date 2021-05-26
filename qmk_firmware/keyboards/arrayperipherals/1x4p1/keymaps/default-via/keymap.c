@@ -32,11 +32,5 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = { //button closest 
 
   [1] = LAYOUT_ortho_1x5(
      KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, TG(2)
-  ),
-  [2] = LAYOUT_ortho_1x5(
-     KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, TG(3)
-  ),
-  [3] = LAYOUT_ortho_1x5(
-     KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, TG(0)
   )
 };
