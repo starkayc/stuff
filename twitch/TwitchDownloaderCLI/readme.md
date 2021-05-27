@@ -9,8 +9,8 @@ I personally use [Twitch ANZ](https://www.twitchanz.com/vods) to get batch links
 ![Picture](https://i.starkayc.moe/PlFB9L.png)
 
 ### Purpose of each batch file
-AIO For Twitch: Downloads vod and chat, then renders chat into a mp4 and then gets burned into the vod file.
-Download VOD: Downloads the vod.
-Download Chat: Downloads the chat.
-Render Chat: Renders chat into mp4 format and is transparent.
-Download Chat and Render: Downloads the chat and renders it into mp4 format and is transparent.
+* AIO For Twitch: Downloads vod and chat, then renders chat into a mp4 and then gets burned into the vod file.
+* Download VOD: Downloads the vod.
+* Download Chat: Downloads the chat.
+* Render Chat: Renders chat into mp4 format and is transparent.
+* Download Chat and Render: Downloads the chat and renders it into mp4 format and is transparent.
