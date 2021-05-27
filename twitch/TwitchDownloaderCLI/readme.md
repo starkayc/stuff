@@ -14,3 +14,6 @@ I personally use [Twitch ANZ](https://www.twitchanz.com/vods) to get batch links
 * Download Chat: Downloads the chat.
 * Render Chat: Renders chat into mp4 format and is transparent.
 * Download Chat and Render: Downloads the chat and renders it into mp4 format and is transparent.
+
+### How to Use
+Add the VOD ID to the ID.txt file and run whichever batch file suits your needs.
