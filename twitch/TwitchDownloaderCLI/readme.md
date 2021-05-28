@@ -9,6 +9,7 @@
 
 ### How to Use
 Add the VOD ID to the ID.txt file and run whichever batch file suits your needs.
+![Picture](https://i.starkayc.moe/t3eCET.png)
 
 ### Where to get batch links for VODS
 I personally use [Twitch ANZ](https://www.twitchanz.com/vods) to get batch links of vods. Afterwards, you can open the downloaded file in Notepad++ and remove the url part leaving the VOD ID only.
