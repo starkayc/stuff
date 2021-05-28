@@ -18,6 +18,11 @@ I personally use [Twitch ANZ](https://www.twitchanz.com/vods) to get batch links
 
 ![Picture](https://i.starkayc.moe/PlFB9L.png)
 
+### Outcome
+![Picture](https://i.starkayc.moe/wqygPO.png)
+![Picture](https://i.starkayc.moe/1hdBnR.png)
+![Picture](https://i.starkayc.moe/4NpXwk.png)
+![Picture](https://i.starkayc.moe/EN5Ywg.jpg)
 
 ### Stuff Used
 - [TwitchDownloader](https://github.com/lay295/TwitchDownloader)
