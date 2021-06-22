@@ -5,6 +5,7 @@
 * Download Chat: Downloads the chat.
 * Render Chat: Renders chat into mp4 format and is transparent.
 * Download Chat and Render: Downloads the chat and renders it into mp4 format and is transparent.
+* Download SUB VODS: Downloads sub-only vod. Enter oauth in cookies.txt ([?](https://youtu.be/1MBsUoFGuls))
 
 
 ### How to Use
