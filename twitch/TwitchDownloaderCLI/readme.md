@@ -9,7 +9,7 @@
 
 
 ### How to Use
-Add the VOD ID to the ID.txt file and run whichever batch file suits your needs.
+Add the VOD ID to the ID.txt file and run whichever batch file suits your needs. If the streamer has VOD set to sub-only then add your [OAuth](https://youtu.be/1MBsUoFGuls) to the cookies.txt file.
 
 ![VODID](https://i.starkayc.moe/t3eCET.png)
 
