@@ -2,4 +2,6 @@ GPU Bios firmware.
 
 ### Inventory:
 * NVIDIA GeForce RTX 2080 Super Founders Edition 8GB
+* GIGABYTE NVIDIA GeForce RTX 3060 GAMING OC 12GB
+* MSI - NVIDIA GeForce RTX 3060 TI GAMING X 8G
 * XFX AMD Radeon RX 580 GTS XXX
