@@ -1,0 +1,9 @@
+#pragma once
+
+#define VIAL_UNLOCK_COMBO_ROWS {0, 2}
+#define VIAL_UNLOCK_COMBO_COLS {0, 13}
+#define VIAL_KEYBOARD_UID {0xFB, 0x87, 0x4B, 0x8D, 0xCC, 0x52, 0xA7, 0x8B}
+
+#define USB_POLLING_INTERVAL_MS 1
+#define QMK_KEYS_PER_SCAN 12
+#define FORCE_NKRO
