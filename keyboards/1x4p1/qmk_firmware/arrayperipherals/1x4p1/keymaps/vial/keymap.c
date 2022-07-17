@@ -30,17 +30,6 @@ bool encoder_update_user(uint8_t index, bool clockwise) {
 
 //
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = { //button closest to usb is first
-  [0] = LAYOUT_ortho_1x5(
-     KC_ESC, KC_TAB, KC_LSHIFT, KC_LCTRL, TG(1)
-   ),
-
-  [1] = LAYOUT_ortho_1x5(
-     KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, TG(2)
-  ),
-  [2] = LAYOUT_ortho_1x5(
-     KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, TG(3)
-  ),
-  [3] = LAYOUT_ortho_1x5(
-     KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, TG(0)
-  )
+	[0] = LAYOUT_ortho_1x5(KC_Z, KC_X, KC_ESC, KC_GRV, TG(1)), // Layer 0
+	[1] = LAYOUT_ortho_1x5(KC_MPRV, KC_MPLY, KC_MNXT, KC_MUTE, TG(1)) // Layer 1
 };
